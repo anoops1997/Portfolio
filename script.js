@@ -47,5 +47,5 @@ for (var i = 0; i < navLinks.length; i++) {
 
 function sendEmail() 
 {
-    window.location = "mailto:anoopspillai@test.com";
+    window.location = "mailto:anoopspillai@datanyelv.com";
 }
